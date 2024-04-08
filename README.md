@@ -1,6 +1,6 @@
 # Edward Monbiot - Data Scientist
 
-Hello! I'm Edward, a Data Scientist with a rich background in Financial Technology and a passion for unlocking insights through data. Currently based in Barcelona, I have recently transitioned from over six years in hedge fund and electronic trading roles to pursuing a Master’s degree in Data Science from the Barcelona School of Economics.
+Hello! I'm Ed, a Data Scientist with a rich background in Financial Technology and a passion for unlocking insights through data. Currently based in Barcelona, I have recently transitioned from over six years in hedge fund and electronic trading roles to pursuing a Master’s degree in Data Science from the Barcelona School of Economics.
 
 ## About Me
 
