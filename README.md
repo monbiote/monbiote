@@ -42,4 +42,5 @@ Please explore my repositories below for an in-depth look at my work. Each proje
 Please get in touch for discussions and collaborations on data science, financial technology, or any related subjects.
 
 - 📧 **Email:** monbiote@gmail.com
-- 📄 **CV:** [View my detailed CV here](https:https://github.com/monbiote/edward_monbiot_cv)
+- 📄 **CV:** [View my detailed CV here](https://github.com/monbiote/edward_monbiot_cv/blob/main/Edward_Monbiot_Data_Science_CV.pdf)
+
