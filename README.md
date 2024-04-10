@@ -6,7 +6,6 @@ Hello, I am Ed, a Data Scientist with a FinTech background, passionate about dat
 - 🌍 **Location:** Barcelona, Spain
 - 📚 **Education:** MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024); BEng in Mechanical Engineering, Trinity College Dublin (2011-2015)
 - 📈 **Professional Background:** Ex-FinTech professional with experience in hedge funds: Caxton Associates (2019-2023) and electronic trading institutions: Traiana (2016-2019) 
-- 📞 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/edward-monbiot-609047a6/)
 
 ## Technical Skills
 
@@ -41,5 +40,6 @@ Please explore my repositories below for an in-depth look at my work. Each proje
 Please get in touch for discussions and collaborations on data science, financial technology, or any related subjects.
 
 - 📧 **Email:** monbiote@gmail.com
+- 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/edward-monbiot-609047a6/)
 - 📄 **CV:** [View my detailed CV here](https://github.com/monbiote/edward_monbiot_cv/blob/main/Edward_Monbiot_Data_Science_CV.pdf)
 
