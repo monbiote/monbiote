@@ -1,7 +1,6 @@
 # Edward Monbiot - Data Scientist
 
-Hello, I am Ed, a Data Scientist with a FinTech background, passionate about data-sriven inisghts. Based in Barcelona, I have over six years of experience working in hedge fund and electronic trading roles in London. I am soon to complete a Data Science for Decision Making MSc degree at the Barcelona School of Economics, set for July 2024. My GitHub showcases a diverse range of data science projects, both solo and collaborative, highlighting my proficiency in Python, R, and SQL. These projects cover a spectrum from Machine Learning and Natural Language Processing to Data Visualisation and Neural Networks.
-
+Hello, I am Ed, a Data Scientist with a FinTech background, passionate about data-sriven inisghts. Based in Barcelona, I have over six years of experience working in hedge fund and electronic trading roles in London. I am soon to complete a Data Science for Decision Making MSc degree at the Barcelona School of Economics, set for July 2024. My GitHub showcases a diverse range of data science projects, both solo and collaborative, highlighting my proficiency in Python, R, and SQL. These projects encompass a range of data science disciplines, including Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning
 ## About Me
 
 - 🌍 **Location:** Barcelona, Spain
