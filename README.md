@@ -12,7 +12,7 @@ Hello, I am Ed, a Data Scientist with a FinTech background, passionate about dat
 - **Languages & Libraries:** Python (Pandas, NumPy, SK Learn, Matplotlib, Seaborn, NLTK, Keras, TensorFlow), R
 - **Database Technologies:**  SQL, MySQL
 - **Cloud Computing:** AWS
-- **Data Science Techniques:** Machine Learning, Text Mining, Natural Language Processing, Hypothesis Testing
+- **Data Science Techniques:** Machine Learning, Text Mining, Natural Language Processing, Unit Testing, Data Visualisation
 
 ## Data Projects
 
