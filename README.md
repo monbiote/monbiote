@@ -18,7 +18,6 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="60" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/External_link_font_awesome.svg" alt="nltk" width="40" height="40"/> <!-- Placeholder icon for NLTK -->
   <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/>
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
