@@ -1,6 +1,6 @@
-# Edward Monbiot - Data Scientist
+# Hi 👋, I'm Ed Monbiot
 
-Hello, I am Ed, a Data Scientist with a FinTech background, passionate about data-driven insights. Based in Barcelona, I have over six years of experience working in hedge fund and electronic trading roles in London. I am soon to complete a Data Science for Decision Making MSc degree at the Barcelona School of Economics, set for July 2024. My GitHub showcases a diverse range of data science projects, both solo and collaborative, highlighting my proficiency in Python, R, and SQL. These projects encompass a range of data science disciplines, including Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning
+I am a Data Scientist skilled in Python, R, and SQL passionate about data-driven insights. Based in Barcelona, I have over six years of experience working in hedge fund and electronic trading roles in London. I am soon to complete a Data Science for Decision Making MSc degree at the Barcelona School of Economics, set for July 2024. My GitHub showcases a diverse range of data science projects, both solo and collaborative, highlighting my proficiency in Python, R, and SQL. These projects encompass a range of data science disciplines, including Machine Learning, Natural Language Processing, Data Visualisation, and Deep Learning
 ## About Me
 
 - 🌍 **Location:** Barcelona, Spain
@@ -16,7 +16,7 @@ Hello, I am Ed, a Data Scientist with a FinTech background, passionate about dat
 
 ## Data Projects
 
-Please explore my repositories below for an in-depth look at my work. Each project comes with a README that details the objectives, techniques used, and the insights I have uncovered.
+Please explore my repositories below for an in-depth look at my work. These projects are Each project comes with a README that details the objectives, techniques used, and the insights I have uncovered.
 
 - [India Used Car Price Predictor](https://github.com/monbiote/India_Used_Car_Price_Predictor)
 - [NLP CEO CFO Sentiment Analysis](https://github.com/monbiote/NLP_CEO_CFO_Sentiment_Analysis)
@@ -30,6 +30,7 @@ Please explore my repositories below for an in-depth look at my work. Each proje
 
 Please get in touch for discussions and collaborations on data science, financial technology, or any related subjects.
 
+- 📞 **Mobile:** +34 610 193 789
 - 📧 **Email:** monbiote@gmail.com
 - 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/edward-monbiot-609047a6/)
 - 📄 **CV:** [View my detailed CV here](https://github.com/monbiote/edward_monbiot_cv/blob/main/Edward_Monbiot_Data_Science_CV.pdf)
