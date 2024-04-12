@@ -36,8 +36,6 @@ I am a Data Scientist skilled in Python, R, and SQL passionate about data-driven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-- **Data Science Techniques:** Machine Learning, Text Mining, Natural Language Processing, Unit Testing, Data Visualisation
-
 ## Data Projects
 
 Please explore my repositories below for an in-depth look at my work. These projects are Each project comes with a README that details the objectives, techniques used, and the insights I have uncovered.
