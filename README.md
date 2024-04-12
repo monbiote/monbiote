@@ -13,6 +13,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
 - **Languages & Libraries:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png" alt="jupyter" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
@@ -21,6 +22,8 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
   <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/>
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/External_link_font_awesome.svg" alt="wordcloud" width="40" height="40"/> 
 </p>
 
 
@@ -36,6 +39,11 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
+**Data Visualisation:**
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="40" height="40"/>
+</p>
 ## Data Projects
 
 Explore my repositories below for a detailed look at my work, where each project comes with a README that details the objectives, techniques used, and insights uncovered.
