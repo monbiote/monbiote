@@ -5,7 +5,7 @@ Hello, I am Ed, a Data Scientist with a FinTech background, passionate about dat
 
 - 🌍 **Location:** Barcelona, Spain
 - 📚 **Education:** MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024); BEng in Mechanical Engineering, Trinity College Dublin (2011-2015)
-- 📈 **Professional Background:** Ex-FinTech professional with experience in hedge funds: Caxton Associates (2019-2023) and electronic trading institutions: Traiana (2016-2019) 
+- 📈 **Professional Background:** Ex-FinTech professional with experience in hedge funds: Caxton Associates (2019-2023) and electronic trading: Traiana (2016-2019) 
 
 ## Technical Skills
 
@@ -18,22 +18,13 @@ Hello, I am Ed, a Data Scientist with a FinTech background, passionate about dat
 
 Please explore my repositories below for an in-depth look at my work. Each project comes with a README that details the objectives, techniques used, and the insights I have uncovered.
 
-## Work Experience
+- [India Used Car Price Predictor](https://github.com/monbiote/India_Used_Car_Price_Predictor)
+- [NLP CEO CFO Sentiment Analysis](https://github.com/monbiote/NLP_CEO_CFO_Sentiment_Analysis)
+- [ICU Length Of Stay](https://github.com/monbiote/ICU_Length_Of_Stay)
+- [Music Store SQL](https://github.com/monbiote/Music_Store_SQL)
+- [WWII Aerial Bombing Operations](https://github.com/monbiote/WWII_Aerial_Bombing_Operations)
+- [Youth Player Football Position Predictor](https://github.com/monbiote/Youth_Player_Football_Position_Predictor)
 
-### Caxton Associates
-**Role:** Trading Support Engineer
-- Managed critical trade capture systems and resolved production issues in a high-stakes environment.
-- Developed automated alerts and monitoring dashboards enhancing  early detection of data anomalies.
-- Usage of SQL and Python in a professional context
-
-### Traiana
-**Role:** Project Manager
-- Delivered over 100 projects for hedge fund clients, collaborating with sales teams and guiding clients through complex project stages.
-
-## Other Interests
-
-- **Sports:** Competitive Tennis player, Chess enthusiast, Padel, Kitesurfing, Skiing
-- **Volunteering:** English & Maths Teacher at Fundación Social Antorches de Vida, Medellín, Colombia
 
 ## Get In Touch
 
