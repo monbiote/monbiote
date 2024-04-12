@@ -25,11 +25,16 @@ I am a Data Scientist skilled in Python, R, and SQL passionate about data-driven
 
 
 - **Database Technologies:**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> <!-- Generic SQL icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
 
 - **Cloud Computing:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</p>
 
 - **Data Science Techniques:** Machine Learning, Text Mining, Natural Language Processing, Unit Testing, Data Visualisation
 
