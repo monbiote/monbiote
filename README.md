@@ -10,7 +10,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
 
 ## Technical Skills
 
-- ** Programming Languages & Libraries:**
+- **Programming Languages & Libraries:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
@@ -37,14 +37,14 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-**Data Visualisation:**
+- **Data Visualisation:**
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
 
 </p>
 
-**Development Tools & Environments:**
+- **Development Tools & Environments:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png" alt="jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
