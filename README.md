@@ -23,7 +23,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/External_link_font_awesome.svg" alt="wordcloud" width="40" height="40"/> 
+
 </p>
 
 
