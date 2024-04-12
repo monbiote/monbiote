@@ -42,7 +42,6 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
 **Data Visualisation:**
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="40" height="40"/>
 </p>
 ## Data Projects
 
