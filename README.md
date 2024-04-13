@@ -40,7 +40,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
 - **Data Visualisation:**
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
+
 
 </p>
 
@@ -49,7 +49,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Square%20Logo/squarelogo-greytext-orangebody-greymoons/squarelogo-greytext-orangebody-greymoons.png" alt="jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ## Data Projects
