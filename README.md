@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ed Monbiot
 
-I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving insights from data. Based in Barcelona, I have extensive experience in hedge funds and electronic trading roles in London, where I managed demanding, time-sensitive projects. I strive to improve and deploy my technical skills. I am currently completing an MSc in Data Science for Decision Making at the Barcelona School of Economics, with graduation anticipated in July 2024. My GitHub portfolio highlights a wide range of data science projects, both solo and collaborative, showcasing my expertise across Machine Learning, Natural Language Processing, Data Visualisation, and Deep Learning.
+I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving insights from data. Based in Barcelona, I have extensive experience in hedge funds and electronic trading roles in London, where I managed demanding, time-sensitive projects. I strive to improve and deploy my technical skills. I am currently completing an MSc in Data Science for Decision Making at the Barcelona School of Economics, and I am graduating in July 2024. My GitHub portfolio highlights a wide range of data science projects, both solo and collaborative, showcasing my expertise across Machine Learning, Natural Language Processing, Data Visualisation, and Deep Learning.
 
 ## About Me
 
