@@ -1,12 +1,20 @@
 # Hi 👋, I'm Ed Monbiot
 
-I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving insights from data. Currently based in Barcelona, I have extensive experience in hedge funds and electronic trading roles in London, where I worked on demanding and time-sensitive software projects. I strive to improve and deploy my technical skills. I am currently completing an MSc in Data Science for Decision Making at the Barcelona School of Economics, and I am graduating in July 2024. My GitHub portfolio highlights a wide range of data science projects, both solo and collaborative, showcasing my expertise across Machine Learning, Natural Language Processing, Data Visualisation, and Deep Learning.
+I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving insights from data. Currently based in Barcelona, I have extensive experience in hedge funds and electronic trading roles in London, where I worked on demanding and time-sensitive software projects and I am graduating in July 2024.
+
+I am graduating in July 2024 from the Barcelona School of Economics with a master's degree in Data Science for Decision Making. My GitHub portfolio highlights a wide range of data science projects, both solo and collaborative, showcasing my expertise across Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning.
+
+I am actively seeking new roles and am eager to apply the cutting-edge skills honed during my degree, coupled with my work experience in Fintech, to tackle new challenges.
 
 ## About Me
 
 - 🌍 **Location:** Barcelona, Spain
-- 📚 **Education:** MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024); BEng in Mechanical Engineering, Trinity College Dublin (2011-2015)
-- 📈 **Professional Background:** FinTech professional with roles at hedge fund: Caxton Associates (2019-2023) and electronic trading firm: Traiana (2016-2019) 
+- 📚 **Education:** 
+  - MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024)
+  - BEng in Mechanical Engineering, Trinity College Dublin (2011-2015)
+- 📈 **Professional Background:** 
+  - Trading Support Engineer at Caxton Associates (2019-2023)
+  - Technical Project Manager at Traiana (2016-2019)
 
 ## Technical Skills
 
