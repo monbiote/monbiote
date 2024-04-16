@@ -27,7 +27,7 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="50" height="50" style="margin-right: 20px;"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="40"/>
-  <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="50" height="70" style="margin-right: 20px;"/>
+  <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="70" height="40" style="margin-right: 20px;"/>
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
