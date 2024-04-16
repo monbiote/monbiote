@@ -12,7 +12,7 @@ I am actively seeking new roles and am eager to apply the cutting-edge skills ho
 - 📚 **Education:** 
   - MSc in Data Science for Decision Making, Barcelona School of Economics (2023-2024)
   - BEng in Mechanical Engineering, Trinity College Dublin (2011-2015)
-- 📈 **Professional Background:** 
+- 📈 **Professional Experience:** 
   - Trading Support Engineer at Caxton Associates (2019-2023)
   - Technical Project Manager at Traiana (2016-2019)
 
