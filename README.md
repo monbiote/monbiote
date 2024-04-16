@@ -18,59 +18,19 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
 
 ## Technical Skills
 
+
 - **Programming Languages & Libraries:**
 <p align="left">
-  <!-- Python Icon -->
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- Pandas Icon -->
-  <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas - Data Manipulation Library" width="40" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- NumPy Icon -->
-  <a href="https://numpy.org/" title="NumPy">
-    <img src="https://numpy.org/images/logo.svg" alt="NumPy - Numerical Computing Library" width="40" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- Scikit-Learn Icon -->
-  <a href="https://scikit-learn.org/" title="Scikit-Learn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn - Machine Learning Library" width="40" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- Matplotlib Icon -->
-  <a href="https://matplotlib.org/" title="Matplotlib">
-    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="50" height="50" style="padding-right:10px;"/>
-  </a>
-
-  <!-- Seaborn Icon -->
-  <a href="https://seaborn.pydata.org/" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn - Statistical Data Visualization" width="60" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- Keras Icon -->
-  <a href="https://keras.io/" title="Keras">
-    <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="50" height="50" style="padding-right:10px;"/>
-  </a>
-
-  <!-- TensorFlow Icon -->
-  <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow - End-to-End Open Source Platform for Machine Learning" width="40" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- R Icon -->
-  <a href="https://www.r-project.org/" title="R">
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R - Statistical Computing" width="40" height="40" style="padding-right:10px;"/>
-  </a>
-
-  <!-- Selenium Icon -->
-  <a href="https://www.selenium.dev/" title="Selenium">
-    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium - Web Browser Automation" width="40" height="40"/>
-  </a>
-</p>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="60" height="40"/>
+  <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
 
 - **Database Technologies:**
 <p align="left">
