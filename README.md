@@ -25,7 +25,7 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="90" height="50" style="margin-right: 20px;"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib - Python plotting library" width="100" height="50" style="margin-right: 20px;"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="40"/>
   <img src="https://keras.io/img/logo.png" alt="Keras - Deep Learning API" width="80" height="40" style="margin-right: 20px;"/>
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
@@ -36,7 +36,7 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
 <p align="left">
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> <!-- Generic SQL icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB Logo" width="40" height="40"/>
+  <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB Logo" width="80" height="40"/>
 </p>
 
 
