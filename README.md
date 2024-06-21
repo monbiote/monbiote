@@ -62,6 +62,12 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
 </p>
 
+Master Thesis
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/European_Central_Bank_%28logo%29.svg/1200px-European_Central_Bank_%28logo%29.svg.png" alt="European Central Bank" width="40" height="40"/>
+</p>
+
+
 ## Data Projects
 
 Explore my repositories below for a detailed look at my work, where each project comes with a README that details the objectives, techniques used, and insights uncovered.
