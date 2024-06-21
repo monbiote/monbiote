@@ -38,6 +38,7 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> <!-- Generic SQL icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB Logo" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> <!-- PySpark logo -->
 </p>
 
 
