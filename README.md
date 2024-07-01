@@ -69,7 +69,7 @@ Used state-of-the-art large language models to build a cacophony index for the E
 - [Master's Thesis Report](https://github.com/monbiote/ECB_Perceived_Cacophony/blob/main/Master_Thesis_ECB_Cacophony_Index.pdf)
 - [ECB_Perceived_Cacophony Repository](https://github.com/monbiote/ECB_Perceived_Cacophony)
 
-## Summary of Findings
+** Summary of Findings**
 
 - **First Contribution to Research**: Application of advanced LLMs to a novel dataset comprising media coverage on central banking. Sentiment analysis was applied to 30,000 media articles from July 2022 to March 2024 using a fine-tuned RoBERTa model, with 78% of the articles classified as "hawkish".
 - **Second Contribution to Research**: Analysis of the dataset after applying LLMs. An interquartile range (IQR) approach was used to measure the diversity of opinions among ECB Governing Council members. The National Bank Governor from Germany was consistently seen as the most hawkish, whereas Southern European governors from Portugal, Greece, Italy, and Spain were more dovish.
