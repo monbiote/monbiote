@@ -4,7 +4,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
 
 My GitHub portfolio showcases a wide range of data science projects, both solo and collaborative, demonstrating expertise across Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning.
 
-I am actively seeking new a data science role and I am eager to apply the cutting-edge skills honed during my degree, coupled with my entensive work experience in Fintech, to tackle your data challenges.
+I am actively seeking new a data-focused role and I am eager to apply the cutting-edge skills honed during my degree, coupled with my entensive work experience in Fintech, to tackle your data challenges.
 
 
 ## About Me
@@ -62,14 +62,17 @@ I am actively seeking new a data science role and I am eager to apply the cuttin
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
 </p>
 
-## Master Thesis
+## Master's Thesis
 
-![European Central Bank](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/European_Central_Bank_%28logo%29.svg/1200px-European_Central_Bank_%28logo%29.svg.png)
+Used state-of-the-art large language models to build a cacophony index for the European Central Bank (ECB). Objective was to measure the discordance of ECB Governors, as perceived by the media, against official ECB communications.
 
-Building a cacophony index for the European Central Bank (ECB), measuring the discordance of ECB Governors, as perceived by the media, against official ECB communications.
+- [Master's Thesis Report](https://github.com/monbiote/ECB_Perceived_Cacophony/blob/main/Master_Thesis_ECB_Cacophony_Index.pdf)
+- [ECB_Perceived_Cacophony Repository](https://github.com/monbiote/ECB_Perceived_Cacophony)
 
-- [ECB_Perceived_Cacophony](https://github.com/monbiote/ECB_Perceived_Cacophony)
+## Summary of Findings
 
+- **First Contribution to Research**: Application of advanced LLMs to a novel dataset comprising media coverage on central banking. Sentiment analysis was applied to 30,000 media articles from July 2022 to March 2024 using a fine-tuned RoBERTa model, with 78% of the articles classified as "hawkish".
+- **Second Contribution to Research**: Analysis of the dataset after applying LLMs. An interquartile range (IQR) approach was used to measure the diversity of opinions among ECB Governing Council members. The National Bank Governor from Germany was consistently seen as the most hawkish, whereas Southern European governors from Portugal, Greece, Italy, and Spain were more dovish.
 
 ## Data Projects
 
