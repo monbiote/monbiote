@@ -4,8 +4,7 @@ I am a Data Scientist skilled in Python, R, and SQL, passionate about deriving i
 
 My GitHub portfolio showcases a wide range of data science projects, both solo and collaborative, demonstrating expertise across Machine Learning, Natural Language Processing, Data Visualization, and Deep Learning.
 
-I am actively seeking new a data-focused role and I am eager to apply the cutting-edge skills honed during my degree, coupled with my entensive work experience in Fintech, to tackle your data challenges.
-
+I am actively seeking new a data-focused role and I am eager to apply the cutting-edge skills honed during my degree, coupled with my extensive work experience in Fintech, to tackle your data challenges.
 
 ## About Me
 
@@ -19,7 +18,6 @@ I am actively seeking new a data-focused role and I am eager to apply the cuttin
 
 ## Technical Skills
 
-
 - **Programming Languages & Libraries:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -32,6 +30,7 @@ I am actively seeking new a data-focused role and I am eager to apply the cuttin
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
+</p>
 
 - **Database Technologies:**
 <p align="left">
@@ -41,7 +40,6 @@ I am actively seeking new a data-focused role and I am eager to apply the cuttin
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> <!-- PySpark logo -->
 </p>
 
-
 - **Cloud Computing:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -49,9 +47,7 @@ I am actively seeking new a data-focused role and I am eager to apply the cuttin
 
 - **Data Visualisation:**
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-
-
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
 </p>
 
 - **Development Tools & Environments:**
@@ -60,6 +56,12 @@ I am actively seeking new a data-focused role and I am eager to apply the cuttin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>
+</p>
+
+- **Large Language Models (LLM):**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BERT_logo.svg/1200px-BERT_logo.svg.png" alt="BERT" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
 </p>
 
 ## Master's Thesis
@@ -85,7 +87,6 @@ Explore my repositories below for a detailed look at my work, where each project
 - [WWII Aerial Bombing Operations](https://github.com/monbiote/WWII_Aerial_Bombing_Operations)
 - [Youth Player Football Position Predictor](https://github.com/monbiote/Youth_Player_Football_Position_Predictor)
 
-
 ## Get In Touch
 
 I'm open to discussions and collaborations on data science, financial technology, or any related fields.
@@ -94,4 +95,3 @@ I'm open to discussions and collaborations on data science, financial technology
 - 📧 **Email:** monbiote@gmail.com
 - 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/edward-monbiot-609047a6/)
 - 📄 **CV:** [View my CV here](https://github.com/monbiote/edward_monbiot_cv/blob/main/E_Monbiot_CV.pdf)
-
