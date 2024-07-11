@@ -59,10 +59,8 @@ I am actively seeking new a data-focused role and I am eager to apply the cuttin
 </p>
 
 - **Large Language Models (LLM):**
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/BERT_logo.svg" alt="BERT" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
-</p>
+  - BERT
+  - OPENAI API
 
 
 ## Master's Thesis
