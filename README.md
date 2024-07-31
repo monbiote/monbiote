@@ -93,4 +93,4 @@ I'm open to discussions and collaborations on data science, financial technology
 - 📞 **Mobile:** +44 7834208795
 - 📧 **Email:** monbiote@gmail.com
 - 📫 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/edward-monbiot-609047a6/)
-- 📄 **CV:** [View my CV here](https://github.com/monbiote/edward_monbiot_cv/blob/main/E_Monbiot_CV.pdf)
+- 📄 **CV:** [View my CV here](https://github.com/monbiote/edward_monbiot_cv/blob/main/E_Monbiot_CV_DS_July2024.pdf)
